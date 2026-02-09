@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PRAVEENCHOURASIA01
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on things related to robotics and automation software
-- 📫 To reach, contact me on 9301650119
+*  Hi, I’m **Praveen (pcodes007)**
+*  Passionate about **Robotics, FinTech, and AI/ML**
+*  Currently pursuing **Computer Science Engineering** and continuously learning advanced robotics software, automation, and intelligent systems
+*  Open to collaborating on **Robotics, Automation Software, Open-Source Projects, and Innovative Tech Solutions**
+
 
 <!---
 PRAVEENCHOURASIA01/PRAVEENCHOURASIA01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
