@@ -1,4 +1,5 @@
-*  Hi, I’m **Praveen (pcodes007)**
+## Hi, I’m **Praveen Chourasia (pcodes007)** 😉
+
 *  Passionate about **Robotics, FinTech, and AI/ML**
 *  Currently pursuing **Computer Science Engineering** and continuously learning advanced robotics software, automation, and intelligent systems
 *  Open to collaborating on **Robotics, Automation Software, Open-Source Projects, and Innovative Tech Solutions**
